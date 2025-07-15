@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]
-> En este repositoria se encuentra la primera investigaión apliacada DWF
+> En este repositoria se encuentra la primera investigaión aplicada DWF
 
 <pre>
 🌱 grupo: DWF404 02T
