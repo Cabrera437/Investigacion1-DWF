@@ -19,3 +19,10 @@
 🌱 grupo: DWF404 02T
 🌱 Desarrollo de Aplicaciones con Web Frameworks
 </pre>
+
+<h2>:open_file_folder: Archivos importantes </h2>
+
+> [documento de investigacion  📖](https://drive.google.com/file/d/1fNj-2SddkIsE6BWEaxPM0oFfWpUX8W9W/view?usp=sharing)
+
+
+
